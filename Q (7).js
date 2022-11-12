@@ -1,4 +1,4 @@
-// 8.	You should create four lines that look like this:
+// 7.	You should create four lines that look like this:
 // ________________________________________
 // console.log(5 + 3)
 // ________________________________________
